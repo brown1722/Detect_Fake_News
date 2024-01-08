@@ -1,5 +1,5 @@
 # Detect_Fake_News
-Detect Fake News Vietnamese use Bidirectional Long short term memory.
+Detect Fake News Vietnamese use Bidirectional Long short term memory and Long short term memmory
 
 Data Real News: https://drive.google.com/file/d/1-UIq3QujAbsQklIEKcT_xoD1izv-8zWF/view?usp=sharing.
 
